@@ -1,4 +1,7 @@
-<h1 align="center">Hi there, I'm Taskin Billah Tamim 👋</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1000&color=00FFAA&center=true&vCenter=true&width=435&lines=Hi+I'm+Taskin+Billah+Tamim!;Frontend+Developer+%7C+CSE+Student+%7C+Tech+Lover;Always+learning+%F0%9F%92%AA+Always+building!+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   🚀 Frontend Developer | 🎓 CSE Student @ East West University | ☁️ Cloud Enthusiast
@@ -16,14 +19,16 @@
 
 ---
 
+<!-- Skill Icons -->
 ## 🧰 Tech Toolbox
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,bootstrap,firebase,azure,cloudflare,c" />
 </p>
 
 ---
 
+<!-- GitHub Stats Section -->
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -34,18 +39,20 @@
 
 ---
 
+<!-- Projects Section -->
 ## 🚀 Featured Projects
 
 ### 🍽️ [Restaurent Webpage](https://github.com/Taskintamim/restaurent--webpage)
 
-> Cool animated restaurant website built with **React** and **Tailwind CSS**, showcasing frontend flair.
+> Cool animated restaurant website built with **React** and **Tailwind CSS**, showcasing frontend flair and design skills.
 
 ### 🍱 [Omnifoodies](https://github.com/Taskintamim/Omnifoodies)
 
-> A food delivery landing page built during my learning phase to practice **UI**, **layout structuring**, and **component-based design** in **React**.
+> A food delivery landing page made during my learning phase to practice **UI**, layout, and **component-based React design**.
 
 ---
 
+<!-- Connect Section -->
 ## 📬 Connect with Me
 
 <p align="left">
@@ -55,12 +62,9 @@
 
 ---
 
-## 🎵 Now Playing on Spotify
+<!-- Fancy Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31l46fhqoxwx74t4z3lgqgmlsfvq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
+  ✨ Let's keep building. GitHub goals in progress... 🚀
 </p>
-
----
-
-<p align="center">✨ Let’s keep building. GitHub Goals in Progress... ✨</p>
