@@ -1,10 +1,12 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=435&lines=Hey!+I'm+Taskin+Tamim+🚀;Front-end+Developer+%7C+CSE+Student+;Cloud+Computing+%7C+Problem+Solver+%7C+Tech+Lover" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Taskin Billah Tamim 👋</h1>
+
+<p align="center">
+  <b>Front-end Developer | CSE Student | Cloud Computing Enthusiast</b>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cloud-Computing-blueviolet?style=for-the-badge"/>
@@ -16,13 +18,13 @@
 
 - 🎓 CSE undergrad at **East West University**
 - 💻 Front-end focused (React, Tailwind) but curious about full-stack
-- ☁️ Exploring **Cloud Computing**, DevOps tools
-- 👨‍💻 Currently learning **C programming** and solving problems daily
-- 🌱 Always learning, always leveling up
+- ☁️ Passionate about **Cloud Computing**
+- 👨‍💻 Currently learning **C programming** and practicing problem solving
+- 🌱 Always growing & exploring new tech
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Tools & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,c,figma,cloudflare" />
