@@ -23,8 +23,9 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,bootstrap,firebase,azure,cloudflare,c" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,vscode,atom,codeblocks,figma,react,nextjs,vue,angular,tailwind,bootstrap,nodejs,firebase,aws,azure,vercel,netlify,git,github,postman,wordpress,brave,google,yandex" />
 </p>
+
 
 ---
 
