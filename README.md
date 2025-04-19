@@ -23,15 +23,9 @@
 ## 🧰 Tech Toolbox
 
 <p align="center">
-  <!-- Skillicons-supported icons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,python,vscode,atom,figma,react,nextjs,vue,angular,tailwind,bootstrap,nodejs,firebase,aws,azure,vercel,netlify,git,github,postman,wordpress" />
-
-  <!-- Custom icons (not supported by skillicons.dev) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Code::Blocks_Logo.png" alt="Code::Blocks" title="Code::Blocks" height="40" style="margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Brave_logo.png" alt="Brave Browser" title="Brave" height="40" style="margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="Google" title="Google" height="40" style="margin: 5px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/23/Yandex_browser_logo.png" alt="Yandex" title="Yandex" height="40" style="margin: 5px;" />
 </p>
+
 
 
 
