@@ -130,6 +130,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Taskintamim&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taskintamim&layout=compact&theme=radical" alt="Top Langs" />
+
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Taskintamim.Taskintamim)
+
 </p>
 
 ---
