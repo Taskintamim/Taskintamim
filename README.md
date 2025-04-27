@@ -18,11 +18,11 @@
 - 🌱 Always learning, building, and pushing my boundaries
 
 ---
-<div align="center">
+<div style="text-align: center;">
   <img 
-    src="https://i.pinimg.com/originals/2f/65/10/2f6510f0ec50a4f6f7bbd63e3c1f0e9a.gif" 
-    alt="Neon Dreams: A Cyberpunk Pixel Art Animation" 
-    style="max-width: 100%; height: auto;" 
+    src="https://i.pinimg.com/originals/a5/3b/c3/a53bc3eb7390edcb1711945f882a92cc.gif" 
+    alt="Responsive GIF" 
+    style="max-width: 100%; height: auto;"
   />
 </div>
 
