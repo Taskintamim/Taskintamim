@@ -126,14 +126,14 @@
 <!-- GitHub Stats Section -->
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Taskintamim&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taskintamim&layout=compact&theme=radical" alt="Top Langs" />
+<div align="center">
 
-  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Taskintamim.Taskintamim)
+  <img src="https://github-readme-stats.vercel.app/api?username=Taskintamim&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Taskintamim&theme=catppuccin_mocha&hide_border=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taskintamim&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
 
-</p>
+</div>
+
 
 ---
 
