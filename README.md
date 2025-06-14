@@ -30,93 +30,80 @@
 <!-- Skill Icons -->
 <h2>🧰 Tech Toolbox</h2>
 
-<!-- Gradient Header with Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=🔥+My+Tech+Toolbox+%F0%9F%94%A5;Crafted+for+the+Future+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
+<h2>🧰 Tech Toolbox</h2>
 
-<!-- Gradient-style line -->
-<hr style="height: 3px; background: linear-gradient(to right, #ff00cc, #333399, #00ccff); border: none;">
-
-<!-- Tech Toolbox Table with GIF Icons -->
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48" alt="HTML" />
-      <br><b>HTML</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
+      <br>HTML
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48" alt="CSS" />
-      <br><b>CSS</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
+      <br>CSS
     </td>
-    <td align="center" width="100">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" alt="JavaScript" />
-      <br><b>JavaScript</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
     </td>
-    <td align="center" width="100">
-      <img src="https://media.giphy.com/media/IeRdg7c5z7BTdhp3fS/giphy.gif" width="48" alt="C Language" />
-      <br><b>C</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br>C
     </td>
-    <td align="center" width="100">
-      <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="48" alt="React" />
-      <br><b>React</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      <br>React
     </td>
-    <td align="center" width="100">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48" alt="Next.js" />
-      <br><b>Next.js</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
+      <br>Next.js
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" alt="VS Code" />
-      <br><b>VS Code</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
+      <br>VS Code
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="48" alt="Atom" />
-      <br><b>Atom</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="48" height="48" alt="Atom" />
+      <br>Atom
     </td>
-    <td align="center" width="100">
-      <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="48" alt="Tailwind" />
-      <br><b>Tailwind</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" alt="Bootstrap" />
-      <br><b>Bootstrap</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
     </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" alt="Vercel" />
-      <br><b>Vercel</b>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48" alt="Vercel" />
+      <br>Vercel
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" alt="Netlify" />
-      <br><b>Netlify</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" alt="Netlify" />
+      <br>Netlify
     </td>
   </tr>
-
   <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git" />
-      <br><b>Git</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br>Git
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub" />
-      <br><b>GitHub</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+      <br>GitHub
     </td>
-    <td align="center" width="100">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" alt="Postman" />
-      <br><b>Postman</b>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48" alt="Three.js" />
-      <br><b>Three.js</b>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three.js" />
+      <br>Three.js
     </td>
   </tr>
 </table>
-
-<!-- Optional spacing line -->
-<br>
-
 
 
 
