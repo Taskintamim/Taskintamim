@@ -28,82 +28,91 @@
 
 
 <!-- Skill Icons -->
-<h2>🧰 Tech Toolbox</h2>
+<!-- 🔥 Animated Gradient Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=500&lines=🧰+My+Tech+Toolbox;Crafted+for+the+Future+⚡" alt="Typing SVG" />
+</p>
 
-<h2>🧰 Tech Toolbox</h2>
+<!-- 🌈 Gradient Divider -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-🛠️%20TECH%20STACK%20HIGHLIGHTED-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&color=800080">
+</p>
 
-<table>
+<!-- 💡 Glowing Tech Icons Table -->
+<table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" />
-      <br>HTML
+      <br><b>HTML</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" />
-      <br>CSS
+      <br><b>CSS</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
+      <br><b>JavaScript</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
-      <br>C
+      <br><b>C</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      <br>React
+      <br><b>React</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
-      <br>Next.js
+      <br><b>Next.js</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-      <br>VS Code
+      <br><b>VS Code</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" width="48" height="48" alt="Atom" />
-      <br>Atom
+      <br><b>Atom</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
+      <br><b>Tailwind</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" />
-      <br>Bootstrap
+      <br><b>Bootstrap</b>
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="48" height="48" alt="Vercel" />
-      <br>Vercel
+      <br><b>Vercel</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="48" height="48" alt="Netlify" />
-      <br>Netlify
+      <br><b>Netlify</b>
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-      <br>Git
+      <br><b>Git</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-      <br>GitHub
+      <br><b>GitHub</b>
     </td>
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-      <br>Postman
+      <br><b>Postman</b>
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="48" height="48" alt="Three.js" />
-      <br>Three.js
+      <br><b>Three.js</b>
     </td>
   </tr>
 </table>
+
+
 
 
 
