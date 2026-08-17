@@ -1,15 +1,20 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=220&section=header&text=Taskin%20Billah%20Tamim&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=34&desc=Frontend%20Developer%20%E2%80%A2%20CSE%20%40%20East%20West%20University&descSize=16&descAlignY=58&descColor=c0caf5" alt="header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20,24&amp;height=220&amp;section=header&amp;text=Taskin%20Billah%20Tamim&amp;fontSize=46&amp;fontColor=ffffff&amp;animation=twinkling&amp;fontAlignY=34&amp;desc=Frontend%20Developer%20%E2%80%A2%20CSE%20%40%20East%20West%20University&amp;descSize=16&amp;descAlignY=58&amp;descColor=c0caf5" alt="header banner" />
+</div>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=7AA2F7&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=80&lines=I+build+clean%2C+fast+frontends.;Currently+exploring+Data+Science+%26+ML.;Next+up%3A+Algorithms+%2B+Cloud+Computing." alt="typing animation" />
-  </a>
+<br/>
 
-  <br />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3500&amp;pause=1000&amp;color=7AA2F7&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=50&amp;lines=I+build+clean,+fast+frontends.;Currently+exploring+Data+Science+%26+ML.;Next+up:+Algorithms+%2B+Cloud+Computing" alt="typing animation" />
+</div>
 
-  <img src="https://komarev.com/ghpvc/?username=Taskintamim&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/Taskintamim?label=Followers&style=for-the-badge&color=bb9af7" alt="followers" />
-  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-1a1b26?style=for-the-badge&logo=googlemaps&logoColor=7aa2f7" alt="location" />
+<br/>
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Taskintamim&amp;label=Profile%20views&amp;color=7aa2f7&amp;style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Taskintamim?label=Followers&amp;style=for-the-badge&amp;color=bb9af7" alt="followers" />
+  <img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-7aa2f7?style=for-the-badge&amp;logo=googlemaps&amp;logoColor=white" alt="location" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20learn-9ece6a?style=for-the-badge" alt="status" />
 </div>
 
@@ -21,9 +26,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Taskintamim"><img src="https://img.shields.io/badge/GitHub-Taskintamim-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/TaskinTamim4"><img src="https://img.shields.io/badge/X-TaskinTamim4-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://www.facebook.com/taskin.ahme.tamim.1/"><img src="https://img.shields.io/badge/Facebook-Taskin-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://github.com/Taskintamim"><img src="https://img.shields.io/badge/GitHub-Taskintamim-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/TaskinTamim4"><img src="https://img.shields.io/badge/X-TaskinTamim4-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+  <a href="https://www.facebook.com/taskin.ahme.tamim.1/"><img src="https://img.shields.io/badge/Facebook-Taskin-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
 </p>
 
 ---
@@ -52,7 +57,7 @@ const taskin = {
 ## 🛠️ Languages and tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,sass,c,cpp,java,py&perline=6" alt="core skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,sass,c,cpp,java,py&amp;perline=6" alt="core skills" />
 </p>
 
 <p align="center">
@@ -63,21 +68,21 @@ const taskin = {
 ### Editors, design, and workflow
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,clion,atom,sublime,figma,git,github,githubactions,autocad,aws&perline=5" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,clion,atom,sublime,figma,git,github,githubactions,autocad,aws&amp;perline=5" alt="tools" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor" />
-  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" />
-  <img src="https://img.shields.io/badge/Code--Blocks-47880A?style=for-the-badge&logo=c&logoColor=white" alt="Code Blocks" />
-  <img src="https://img.shields.io/badge/Sublime-FF9800?style=for-the-badge&logo=sublime-text&logoColor=white" alt="Sublime" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=atom&logoColor=white" alt="Atom" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
-  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD" />
-  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&amp;logo=cursor&amp;logoColor=white" alt="Cursor" />
+  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&amp;logo=clion&amp;logoColor=white" alt="CLion" />
+  <img src="https://img.shields.io/badge/Code--Blocks-47880A?style=for-the-badge&amp;logo=c&amp;logoColor=white" alt="Code Blocks" />
+  <img src="https://img.shields.io/badge/Sublime-FF9800?style=for-the-badge&amp;logo=sublime-text&amp;logoColor=white" alt="Sublime" />
+  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&amp;logo=atom&amp;logoColor=white" alt="Atom" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&amp;logo=figma&amp;logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&amp;logo=canva&amp;logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" alt="AutoCAD" />
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&amp;logo=openai&amp;logoColor=white" alt="Codex" />
 </p>
 
 ---
@@ -86,26 +91,26 @@ const taskin = {
 
 <p align="center">
   <a href="https://github.com/Taskintamim/japanese-foodpage">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taskintamim&repo=japanese-foodpage&theme=tokyonight&hide_border=true" alt="japanese-foodpage" />
+    <img src="https://github-readme-stats.shion.dev/api/pin?username=Taskintamim&amp;repo=japanese-foodpage&amp;theme=tokyonight&amp;hide_border=true" alt="japanese-foodpage" />
   </a>
   <a href="https://github.com/Taskintamim/gpt3-tamim">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taskintamim&repo=gpt3-tamim&theme=tokyonight&hide_border=true" alt="gpt3-tamim" />
+    <img src="https://github-readme-stats.shion.dev/api/pin?username=Taskintamim&amp;repo=gpt3-tamim&amp;theme=tokyonight&amp;hide_border=true" alt="gpt3-tamim" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Taskintamim/crypto-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taskintamim&repo=crypto-site&theme=tokyonight&hide_border=true" alt="crypto-site" />
+    <img src="https://github-readme-stats.shion.dev/api/pin?username=Taskintamim&amp;repo=crypto-site&amp;theme=tokyonight&amp;hide_border=true" alt="crypto-site" />
   </a>
   <a href="https://github.com/Taskintamim/tourist-site">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taskintamim&repo=tourist-site&theme=tokyonight&hide_border=true" alt="tourist-site" />
+    <img src="https://github-readme-stats.shion.dev/api/pin?username=Taskintamim&amp;repo=tourist-site&amp;theme=tokyonight&amp;hide_border=true" alt="tourist-site" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Taskintamim/car-rental">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taskintamim&repo=car-rental&theme=tokyonight&hide_border=true" alt="car-rental" />
+    <img src="https://github-readme-stats.shion.dev/api/pin?username=Taskintamim&amp;repo=car-rental&amp;theme=tokyonight&amp;hide_border=true" alt="car-rental" />
   </a>
   <a href="https://github.com/Taskintamim/weather-app-mobile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Taskintamim&repo=weather-app-mobile&theme=tokyonight&hide_border=true" alt="weather-app-mobile" />
+    <img src="https://github-readme-stats.shion.dev/api/pin?username=Taskintamim&amp;repo=weather-app-mobile&amp;theme=tokyonight&amp;hide_border=true" alt="weather-app-mobile" />
   </a>
 </p>
 
@@ -126,7 +131,7 @@ const taskin = {
 flowchart LR
   A[HTML / CSS / JS] --> B[React + TypeScript]
   B --> C[Node.js]
-  C --> D[Data Structures ✅]
+  C --> D[Data Structures]
   D --> E[Algorithms]
   E --> F[AI / ML]
   F --> G[Cloud Computing]
@@ -140,23 +145,23 @@ flowchart LR
 
 ## 📊 GitHub analytics
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taskintamim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taskintamim&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&hide=markdown" alt="most used languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Taskintamim&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Taskintamim&amp;layout=compact&amp;langs_count=8&amp;theme=tokyonight&amp;hide_border=true&amp;hide=markdown" alt="most used languages" />
+</p>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Taskintamim&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Taskintamim&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub streak" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taskintamim&theme=tokyo-night&hide_border=true&area=true" alt="contribution graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taskintamim&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true" alt="contribution graph" />
+</p>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taskintamim&theme=tokyonight" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taskintamim&theme=tokyonight" alt="most commit language" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Taskintamim&amp;theme=tokyonight" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Taskintamim&amp;theme=tokyonight" alt="most commit language" />
+</p>
 
 <p align="center">
   <img src="https://ghchart.rshah.org/7aa2f7/Taskintamim" alt="contribution chart" />
@@ -168,7 +173,7 @@ flowchart LR
 <summary><b>💻 Code mode — trophies</b></summary>
 <br/>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Taskintamim&theme=tokyonight&no-frame=true&no-bg=false&column=7&margin-w=8&margin-h=8" alt="trophies" />
+  <img src="https://trophy.benkou.dev/?username=Taskintamim&amp;theme=tokyonight&amp;column=7&amp;margin-w=8&amp;margin-h=8" alt="trophies" />
 </p>
 </details>
 
@@ -179,11 +184,7 @@ flowchart LR
   <i>A snake that eats this year’s contribution graph. It updates daily through GitHub Actions.</i>
 </p>
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Taskintamim/Taskintamim/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Taskintamim/Taskintamim/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/Taskintamim/Taskintamim/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Taskintamim/Taskintamim/output/github-contribution-grid-snake-dark.svg" />
 </p>
 </details>
 
@@ -202,7 +203,5 @@ flowchart LR
 </p>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24&height=140&section=footer" alt="footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20,24&amp;height=140&amp;section=footer" alt="footer banner" />
 </div>
-
