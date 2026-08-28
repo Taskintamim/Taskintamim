@@ -60,10 +60,7 @@ const taskin = {
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,tailwind,sass,c,cpp,java,py&amp;perline=6" alt="core skills" />
 </p>
 
-<p align="center">
-  <b>Frontend</b> · HTML · CSS · SCSS · JavaScript · TypeScript · React · Tailwind · Node.js<br/>
-  <b>Core CS</b> · C · C++ · Java · Python · Data Structures
-</p>
+
 
 ### Editors, design, and workflow
 
